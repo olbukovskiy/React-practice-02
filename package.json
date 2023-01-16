@@ -1,6 +1,7 @@
 {
-  "name": "55blended",
+  "name": "react-practice-02",
   "private": true,
+  "homepage": "http://olbukovskiy.github.io/React-practice-02",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
